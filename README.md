@@ -1,11 +1,14 @@
 <div align="center">
 	<img width="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome">
 	<br>
-	<br>
   <p>
 	<h3>Awesome PhD Advice</h3>
 	<h4>——<i>for computer system research</i></h4>
+  </p>
   <p>
+	<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img height="20" src="https://licensebuttons.net/l/zero/1.0/80x15.png" alt="License: CC0-1.0"></a>
+	<a href="https://github.com/sindresorhus/awesome"><img height="20"  src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  </p>
 <br>
 <br>
 <br>
