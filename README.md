@@ -6,13 +6,10 @@
 	<p style="font-size:32px">Awesome PhD Advice</p>
 	<p style="font-size:24px">——<i>for computer system research</i></p>
   <p>
-  <h3>
-    
-  </h3>
-	<br>
-	<br>
-	<br>
-	<br>
+<br>
+<br>
+<br>
+<br>
 </div>
 
 
