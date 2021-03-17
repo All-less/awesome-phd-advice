@@ -9,8 +9,8 @@
   </p>
   <br>
   <p>
-	<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img height="20" src="https://licensebuttons.net/l/zero/1.0/80x15.png" alt="License: CC0-1.0"></a>
 	<a href="https://github.com/sindresorhus/awesome"><img height="20"  src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+	<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img height="20" src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg" alt="License: CC0-1.0"></a>
   </p>
 <br>
 <br>
