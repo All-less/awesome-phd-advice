@@ -33,9 +33,9 @@
 
 ### How to read/write/review papers?
 
-[How to read a (systems) paper](files/How to read a (systems) paper.pdf) - Rebecca Isaacs - SOSP 2019 Diversity Workshop
+[How to read a (systems) paper](files/How%20to%20read%20a%20(systems)%20paper.pdf) - Rebecca Isaacs - SOSP 2019 Diversity Workshop
 
-Writing reviews for systems conferences - Timothy Roscoe - Personal Writing
+[Writing reviews for systems conferences](files/Writing%20reviews%20for%20systems%20conferences.pdf) - Timothy Roscoe - Personal Writing
 
 <br>
 
