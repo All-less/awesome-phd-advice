@@ -24,7 +24,9 @@
 ### How to do system research?
 
 [1] Peter Druschel. [How to do systems research](files/how-to-do-systems-research.pdf). EuroSys Doctoral Workshop 2018
+
 [2] Steve Hand. [Doing a Systems PhD](files/doing-a-systems-phd.pdf). EuroSys Doctoral Workshop 2011
+
 [3] Lalith Suresh. [Low-level advice for systems research](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/). Personal Blog
 
 <br>
@@ -32,6 +34,7 @@
 ### How to read/write/review papers?
 
 [1] Rebecca Isaacs. [How to read a (systems) paper](files/how-to-read-a-systems-paper.pdf). SOSP 2019 Diversity Workshop
+
 [2] Timothy Roscoe. [Writing reviews for systems conferences](files/writing-reviews-for-systems-conferences.pdf). Personal Writing
 
 <br>
