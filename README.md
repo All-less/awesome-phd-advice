@@ -4,8 +4,8 @@
 	<br>
 -->
   <p>
-	<h3>Awesome PhD Advice</h3>
-	<h4>——<i>for computer system research</i></h4>
+	<h2>Awesome PhD Advice</h3>
+	<h3>——<i>for computer system research</i></h4>
   </p>
   <br>
   <p>
