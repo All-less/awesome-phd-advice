@@ -3,8 +3,8 @@
 	<br>
 	<br>
   <p>
-	<p style="font-size:32pt">Awesome PhD Advice</p>
-	<p style="font-size:24pt">——<i>for computer system research</i></p>
+	<p style="font-size:32px">Awesome PhD Advice</p>
+	<p style="font-size:24px">——<i>for computer system research</i></p>
   <p>
   <h3>
     
