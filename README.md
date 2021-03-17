@@ -1,10 +1,10 @@
 <div align="center">
-	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome">
+	<img width="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome">
 	<br>
 	<br>
   <p>
-	<p style="font-size:32px">Awesome PhD Advice</p>
-	<p style="font-size:24px">——<i>for computer system research</i></p>
+	<h3>Awesome PhD Advice</h3>
+	<h4>——<i>for computer system research</i></h4>
   <p>
 <br>
 <br>
