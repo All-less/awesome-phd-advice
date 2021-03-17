@@ -19,13 +19,7 @@
 </div>
 
 
-### How to read/write/review papers?
 
-How to read a (systems) paper - Rebecca Isaacs - SOSP 2019 Diversity Workshop
-
-Writing reviews for systems conferences - Timothy Roscoe
-
-### How to give a presentation?
 
 ### How to do system research?
 
@@ -33,12 +27,30 @@ Writing reviews for systems conferences - Timothy Roscoe
 
 [Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf) - Steve Hand - EuroSys Doctoral Workshop 2011
 
-[Low-level advice for systems research](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
+[Low-level advice for systems research](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/) - Lalith Suresh - Personal Writing
+
+<br>
+
+### How to read/write/review papers?
+
+[How to read a (systems) paper](files/How to read a (systems) paper.pdf) - Rebecca Isaacs - SOSP 2019 Diversity Workshop
+
+Writing reviews for systems conferences - Timothy Roscoe - Personal Writing
+
+<br>
+
+### How to give a presentation?
+
+<br>
+
+### How to network with others?
+
+Networking on the Network: A Guide to Professional Skills for PhD Students
+
+<br>
 
 ### How to search for jobs?
 
 My Experiences Getting an Academic Job - Pratap Tokekar
 
-### How to network with others?
 
-Networking on the Network: A Guide to Professional Skills for PhD Students
