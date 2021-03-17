@@ -1,6 +1,19 @@
-# Awesome PhD Advice (for Computer System Research)
+<div align="center">
+	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome">
+	<br>
+	<br>
+  <h2>
+    Awesome PhD Advice
+  </h2>
+  <h3>
+    ——<i>for computer system research</i>
+  </h3>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
 
-Awesome list of advice for PhD in computer system research.
 
 ### How to read/write/review papers?
 
