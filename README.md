@@ -2,11 +2,12 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome">
 	<br>
 	<br>
-  <h2>
-    Awesome PhD Advice
-  </h2>
+  <p>
+	<p style="font-size:32pt">Awesome PhD Advice</p>
+	<p style="font-size:24pt">——<i>for computer system research</i></p>
+  <p>
   <h3>
-    ——<i>for computer system research</i>
+    
   </h3>
 	<br>
 	<br>
