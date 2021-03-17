@@ -23,19 +23,16 @@
 
 ### How to do system research?
 
-[How to do systems research](http://conferences.inf.ed.ac.uk/EuroDW2018/keynotes/Peter-Druschel-Keynote.pdf) - Peter Druschel - EuroSys Doctoral Workshop 2018
-
-[Doing a Systems PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf) - Steve Hand - EuroSys Doctoral Workshop 2011
-
-[Low-level advice for systems research](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/) - Lalith Suresh - Personal Writing
+[1] Peter Druschel. [How to do systems research](files/how-to-do-systems-research.pdf). EuroSys Doctoral Workshop 2018
+[2] Steve Hand. [Doing a Systems PhD](files/doing-a-systems-phd.pdf). EuroSys Doctoral Workshop 2011
+[3] Lalith Suresh. [Low-level advice for systems research](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/). Personal Blog
 
 <br>
 
 ### How to read/write/review papers?
 
-[How to read a (systems) paper](files/How%20to%20read%20a%20(systems)%20paper.pdf) - Rebecca Isaacs - SOSP 2019 Diversity Workshop
-
-[Writing reviews for systems conferences](files/Writing%20reviews%20for%20systems%20conferences.pdf) - Timothy Roscoe - Personal Writing
+[1] Rebecca Isaacs. [How to read a (systems) paper](files/how-to-read-a-systems-paper.pdf). SOSP 2019 Diversity Workshop
+[2] Timothy Roscoe. [Writing reviews for systems conferences](files/writing-reviews-for-systems-conferences.pdf). Personal Writing
 
 <br>
 
@@ -45,12 +42,12 @@
 
 ### How to network with others?
 
-Networking on the Network: A Guide to Professional Skills for PhD Students
+[1] Phil Agre. [Networking on the Network: A Guide to Professional Skills for PhD Students](files/networking-on-the-network.pdf). Personal Writing
 
 <br>
 
 ### How to search for jobs?
 
-My Experiences Getting an Academic Job - Pratap Tokekar
+[1] Pratap Tokekar. [My Experiences Getting an Academic Job](files/my-experiences-getting-an-academic-job.pdf). Personal Writing 
 
 
