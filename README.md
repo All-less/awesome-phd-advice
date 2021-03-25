@@ -35,7 +35,9 @@
 
 [1] Rebecca Isaacs. [How to read a (systems) paper](files/how-to-read-a-systems-paper.pdf). SOSP 2019 Diversity Workshop
 
-[2] Timothy Roscoe. [Writing reviews for systems conferences](files/writing-reviews-for-systems-conferences.pdf). Personal Writing
+[2] Steven Swanson. [The Nuts and Bolts of Writing Papers](http://cseweb.ucsd.edu/~swanson/WritingPapers.html). Personal Writing
+
+[3] Timothy Roscoe. [Writing reviews for systems conferences](files/writing-reviews-for-systems-conferences.pdf). Personal Writing
 
 <br>
 
