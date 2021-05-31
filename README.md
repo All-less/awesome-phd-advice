@@ -55,4 +55,10 @@
 
 [1] Pratap Tokekar. [My Experiences Getting an Academic Job](files/my-experiences-getting-an-academic-job.pdf). Personal Writing 
 
+<br>
+
+### How to plan a career in academia?
+
+[1] David A. Patterson. [How to Have a Bad Career How to Have a Bad Career in Research/Academia](files/bad-career.pdf). 
+
 
