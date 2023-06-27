@@ -43,12 +43,17 @@
 
 ### How to give a presentation?
 
+To Be Added
+
 <br>
 
 ### How to network with others?
 
 [1] Phil Agre. [Networking on the Network: A Guide to Professional Skills for PhD Students](files/networking-on-the-network.pdf). Personal Writing
 
+[2] Bara Buhnova. [How to get the best out of any conference](https://www.youtube.com/watch?v=9A_aKfHYdAk). womENcourage 2021 Pre-Conference Workshop
+
+[3] Yixue Zhao. [How to get the most out of your first research conference](https://yixue-zhao.medium.com/how-to-get-the-most-out-of-your-first-research-conference-72d44eca1309). Personal Writing
 <br>
 
 ### How to search for jobs?
@@ -61,4 +66,4 @@
 
 [1] David A. Patterson. [How to Have a Bad Career How to Have a Bad Career in Research/Academia](files/bad-career.pdf). 
 
-
+[2] Yixue Zhao. [A (non-exhaustive) list of job opportunities for PhD students and Postdocs](https://yixue-zhao.medium.com/academia-industry-and-everything-in-between-af522e74a9eb). Personal Writing
