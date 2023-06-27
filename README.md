@@ -54,6 +54,7 @@ To Be Added
 [2] Bara Buhnova. [How to get the best out of any conference](https://www.youtube.com/watch?v=9A_aKfHYdAk). womENcourage 2021 Pre-Conference Workshop
 
 [3] Yixue Zhao. [How to get the most out of your first research conference](https://yixue-zhao.medium.com/how-to-get-the-most-out-of-your-first-research-conference-72d44eca1309). Personal Writing
+
 <br>
 
 ### How to search for jobs?
